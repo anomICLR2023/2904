@@ -23,7 +23,7 @@ Here we have provided with expert dataset to train MT10.
 
 
 
-
+---
 
 **Halfcheetah Multitask**
 <p float="left">
@@ -35,6 +35,7 @@ Here we have provided with expert dataset to train MT10.
 </p>
 
 
+---
 
 **Quadrupod Multitasks**
 <p float="left">
@@ -44,6 +45,7 @@ Here we have provided with expert dataset to train MT10.
   <img src="https://imgur.com/5uCm1Ty.gif" width="200" />
 </p>
 
+---
 
 **Halfcheetah Constrained Multitasks**
 
