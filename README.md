@@ -24,11 +24,11 @@ Activate Environment: `conda activate neural_pathway`
 ---
 
 **Halfcheetah Multitask**
-  <img src="https://imgur.com/HY1ZwBt.gif" width="200" />
-  +<img src="https://imgur.com/kKrcBme.gif" width="200" /> 
-  +<img src="https://imgur.com/5BNWfRB.gif" width="200" />
-  +<img src="https://imgur.com/MKsPDK6.gif" width="200" />
-  +<img src="https://imgur.com/X6k0xc2.gif" width="200" />
+ ![](https://imgur.com/HY1ZwBt.gif)
+ ![](https://imgur.com/kKrcBme.gif)
+ ![](https://imgur.com/5BNWfRB.gif)
+ ![](https://imgur.com/MKsPDK6.gif)
+ ![](https://imgur.com/X6k0xc2.gif)
 
 
 
