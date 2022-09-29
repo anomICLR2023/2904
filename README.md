@@ -35,7 +35,7 @@ Here we have provided with expert dataset to train MT10.
   <img src="https://imgur.com/u4TOrkV.gif" width="200" />
   <img src="https://imgur.com/EaYfZbE.gif" width="200" /> 
   <img src="https://imgur.com/4FndsXo.gif" width="200" />
-    <img src="https://imgur.com/5uCm1Ty.gif" width="200" />
+  <img src="https://imgur.com/5uCm1Ty.gif" width="200" />
 </p>
 
 
@@ -45,9 +45,9 @@ Here we have provided with expert dataset to train MT10.
 <p float="left">
   <img src="https://imgur.com/DnulPLY.gif" width="200" />
   <img src="https://imgur.com/Fxy2tcK.gif" width="200" /> 
-    <img src="https://imgur.com/ZsIVKUO.gif" width="200" />
+  <img src="https://imgur.com/ZsIVKUO.gif" width="200" />
   <img src="https://imgur.com/arYIcnC.gif" width="200" />
-    <img src="https://imgur.com/scLhoCr.gif" width="200" />
+  <img src="https://imgur.com/scLhoCr.gif" width="200" />
 </p>
 
 
