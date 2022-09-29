@@ -143,7 +143,7 @@ if __name__ == "__main__":
     parser.add_argument('--log_dir', default='./data_tmp/', type=str)    # Logging directory
     parser.add_argument('--cloning', default="False", type=str)
     parser.add_argument('--gamma', default=0.99, type=float)
-    parser.add_argument('--batch_size', default=1024, type=int)
+    parser.add_argument('--batch_size', default=256, type=int)
     parser.add_argument('--experiment', type=str, default='None')
     parser.add_argument('--buffer_size', default=1000000, type=int)
     parser.add_argument('--action_repeat', default=1, type=int)
