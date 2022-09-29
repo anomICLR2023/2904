@@ -20,15 +20,6 @@ Activate Environment: `conda activate neural_pathway`
 #### Train agent
 `python main_parallel.py --algo_name='IQL' --env_name='metaworld' --clip_grad`
 
----
-**Halfcheetah Multitask**
-<p float="left">
-  <img src="https://imgur.com/HY1ZwBt.gif" width="200" />
-  <img src="https://imgur.com/kKrcBme.gif" width="200" /> 
-  <img src="https://imgur.com/X6k0xc2.gif" width="200" />
-  <img src="https://imgur.com/5BNWfRB.gif" width="200" />
-  <img src="https://imgur.com/MKsPDK6.gif" width="200" />
-</p>
 
 
 
@@ -42,16 +33,9 @@ Activate Environment: `conda activate neural_pathway`
 </p>
 
 
-**Halfcheetah Constrained Multitasks**
 
-* **NOTE**: following trained in restricted veloctiy evaluated regular env
-<p float="left">
-  <img src="https://imgur.com/DnulPLY.gif" width="200" />
-  <img src="https://imgur.com/Fxy2tcK.gif" width="200" /> 
-  <img src="https://imgur.com/ZsIVKUO.gif" width="200" />
-  <img src="https://imgur.com/arYIcnC.gif" width="200" />
-  <img src="https://imgur.com/scLhoCr.gif" width="200" />
-</p>
+
+
 
 ---
 **MetaWorld MT10**
