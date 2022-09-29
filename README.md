@@ -19,19 +19,7 @@ Activate Environment: `conda activate neural_pathway`
 
 #### Train agent
 `python main_parallel.py --algo_name='IQL' --env_name='metaworld' --clip_grad`
-
-
-
-
-
-**Quadrupod Multitasks**
-<p float="left">
-  <img src="https://imgur.com/u4TOrkV.gif" width="200" />
-  <img src="https://imgur.com/EaYfZbE.gif" width="200" /> 
-  <img src="https://imgur.com/4FndsXo.gif" width="200" />
-  <img src="https://imgur.com/5uCm1Ty.gif" width="200" />
-</p>
-
+* More demonstrations of trained agents are [here](https://drive.google.com/drive/folders/1u3YAIWXSjXsGjltnY9Pht-AQ7NXLMt0m)
 
 
 
