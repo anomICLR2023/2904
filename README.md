@@ -2,7 +2,6 @@
 Create environment: `conda env create -f environment.yaml`
 Activate Environment: `conda activate neural_pathway`
 
-![](https://drive.google.com/drive/folders/1st7x6zt8V-PqlLp_hLt6owarFqH9EPpu)
 ---
 
 # Offline Multitasks 
@@ -25,12 +24,15 @@ Activate Environment: `conda activate neural_pathway`
 
 **Halfcheetah Multitask**
 
-![](https://imgur.com/HY1ZwBt.gif)
-![](https://imgur.com/kKrcBme.gif)
-![](https://imgur.com/5BNWfRB.gif)
+**Halfcheetah Multitask**
+<p float="left">
+  <img src="https://imgur.com/HY1ZwBt.gif" width="100" />
+  <img src="https://imgur.com/kKrcBme.gif" width="100" /> 
+  <img src="https://imgur.com/5BNWfRB.gif" width="100" />
+  <img src="https://imgur.com/MKsPDK6.gif" width="100" />
+  <img src="https://imgur.com/X6k0xc2.gif" width="100" />
+</p>
 
-![](https://imgur.com/MKsPDK6.gif)
-![](https://imgur.com/X6k0xc2.gif)
 
 
 
