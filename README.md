@@ -21,16 +21,13 @@ Activate Environment: `conda activate neural_pathway`
 `python main_parallel.py --algo_name='IQL' --env_name='metaworld' --clip_grad`
 
 ---
-
-
-
 **Halfcheetah Multitask**
 <p float="left">
-  <img src="https://imgur.com/HY1ZwBt.gif" width="100" />
-  <img src="https://imgur.com/kKrcBme.gif" width="100" /> 
-  <img src="https://imgur.com/X6k0xc2.gif" width="100" />
-    <img src="https://imgur.com/5BNWfRB.gif" width="100" />
-  <img src="https://imgur.com/MKsPDK6.gif" width="100" />
+  <img src="https://imgur.com/HY1ZwBt.gif" width="200" />
+  <img src="https://imgur.com/kKrcBme.gif" width="200" /> 
+  <img src="https://imgur.com/X6k0xc2.gif" width="200" />
+  <img src="https://imgur.com/5BNWfRB.gif" width="200" />
+  <img src="https://imgur.com/MKsPDK6.gif" width="200" />
 </p>
 
 
