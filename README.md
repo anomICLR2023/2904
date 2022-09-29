@@ -24,6 +24,7 @@ Here we have provided with expert dataset to train MT10.
 
 
 
+
 **Halfcheetah Multitask**
 <p float="left">
   <img src="https://imgur.com/HY1ZwBt.gif" width="200" />
@@ -53,6 +54,22 @@ Here we have provided with expert dataset to train MT10.
   <img src="https://imgur.com/ZsIVKUO.gif" width="200" />
   <img src="https://imgur.com/arYIcnC.gif" width="200" />
   <img src="https://imgur.com/scLhoCr.gif" width="200" />
+</p>
+
+---
+**MetaWorld MT10**
+
+<p float="left">
+  <img src="https://imgur.com/q1LLvBs.gif" width="200" />
+  <img src="https://imgur.com/NA62a8y.gif" width="200" /> 
+  <img src="https://imgur.com/7AjlpWC.gif" width="200" />
+  <img src="https://imgur.com/3sTpeXU.gif" width="200" />
+  <img src="https://imgur.com/AY15kCv.gif" width="200" />
+  <img src="https://imgur.com/0imjl9P.gif" width="200" />
+  <img src="https://imgur.com/0zBdb8a.gif" width="200" /> 
+  <img src="https://imgur.com/zlOomqc.gif" width="200" />
+  <img src="https://imgur.com/7g7LV2q.gif" width="200" />
+  <img src="https://imgur.com/J70wCYm.gif" width="200" />
 </p>
 
 
